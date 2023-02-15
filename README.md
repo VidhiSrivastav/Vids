@@ -2,15 +2,15 @@
 <h1 align="center">Hi 👋, I'm Vidhii</h1>
 <h3 align="center">An aspiring Data Analyst master in business administration from Bangalore</h3>
 
-- 🌱 I’m currently learning **machine learning algorithms**
+- 🌱 I’m currently learning **Data Analytics**
 
-- 🤝 I’m looking for help with **data science**
+- 🤝 I’m looking for help with **Python Programming**
 
-- 💬 Ask me about **sequel and tableau**
+- 💬 Ask me about **Tableau and SQL**
 
 - 📫 How to reach me **https://discord.com/invite/Pinkskiiez**
 
-- ⚡ Fun fact **I love pink**
+- ⚡ Fun fact **I love pop**
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vids333&show_icons=true&locale=en&layout=compact" alt="Vids333" /></p>
