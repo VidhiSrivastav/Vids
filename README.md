@@ -1,6 +1,6 @@
 # Vids
 <h1 align="center">Hi 👋, I'm Vidhii</h1>
-<h3 align="center">An aspiring Data Analyst master in business administration from Bangalore</h3>
+<h3 align="center">An Aspiring Data Analyst and Master in Business Administration from Bangalore</h3>
 
 - 🌱 I’m currently learning **Data Analytics**
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **https://discord.com/invite/Pinkskiiez**
 
-- ⚡ Fun fact **I love pop**
+- ⚡ Fun fact **I love pop Music**
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vids333&show_icons=true&locale=en&layout=compact" alt="Vids333" /></p>
