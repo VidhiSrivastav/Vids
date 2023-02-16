@@ -1,6 +1,6 @@
 # Vids
 <h1 align="center">Hi 👋, I'm Vidhii</h1>
-<h3 align="center">An Aspiring Data Analyst and Master in Business Administration from Bangalore</h3>
+<h3 align="center">An Aspiring Data Analyst and Masters in Business Administration</h3>
 
 - 🌱 I’m currently learning **Data Analytics**
 
