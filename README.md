@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for help with **Python Programming**
 
-- 💬 Ask me about **Tableau and SQL**
+- 💬 Ask me about **Tableau and SQL, https://public.tableau.com/app/profile/vidhi5336**
 
 - 📫 How to reach me **https://discord.com/invite/Pinkskiiez**
 
