@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Tableau and SQL, https://public.tableau.com/app/profile/vidhi5336**
 
-- 📫 How to reach me **https://discord.com/invite/Pinkskiiez**
+- 📫 How to reach me **<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>**
 
 - ⚡ Fun fact **I love pop Music**
 
