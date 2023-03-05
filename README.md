@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Tableau and SQL, https://public.tableau.com/app/profile/vidhi5336**
 
-- 📫 How to reach me **Vidhi Srivastava**
+- 📫 How to reach me **vidhisrivastava77**
 
 - ⚡ Fun fact **I love pop Music**
 
