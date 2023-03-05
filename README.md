@@ -13,10 +13,10 @@
 - ⚡ Fun fact **I love pop Music**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vids333&show_icons=true&locale=en&layout=compact" alt="Vids333" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vids&show_icons=true&locale=en&layout=compact" alt="Vids" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vids333&show_icons=true&locale=en" alt="Vids333" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vids&show_icons=true&locale=en" alt="Vids" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vids333&" alt="Vids333" /></p>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vids&" alt="Vids" /></p>
+
 
