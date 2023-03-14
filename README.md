@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Data Analytics and Visualization.<br>I'm looking to collaborate on tableau and SQL.<br>I'm looking for help with Python Programming.<br>I'm currently learning Exploratory Data Analysis with visualization.<br>Ask me about Tableau and SQL.https://public.tableau.com/app/profile/vidhi5336#!/ .<br>Fun Fact : I'm a lifelong learner.<br>
+I'm currently working on Data Analytics and Visualization.<br>I'm looking to collaborate on tableau and SQL.<br>I'm looking for help with Python Programming.<br>I'm currently learning Exploratory Data Analysis with visualization.<br>Ask me about Tableau and SQL.https://public.tableau.com/app/profile/vidhi5336#!/ .<br>Fun Fact : I'm a lifelong learner.https://www.kaggle.com/vidhisrivastava/account.<br>
 
 
 # 💻 Tech Stack:
